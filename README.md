@@ -67,5 +67,11 @@ https://www.youtube.com/watch?v=MidkehASiNU
 - [Zalenium Installation & Demo with Portainer ]<br/>
 https://www.youtube.com/watch?v=8YsB3DAPZq8
 
+### [Test Automation Code Quality] <br/>
+- [Checking Test Automation Quality Code (Static Code Analysis & Security) with SonarQube ]<br/>
+https://www.youtube.com/watch?v=Cymsg63eOP4
+
 ### [Youtube Channel ] <br/>
 https://www.youtube.com/user/okta86100/videos
+
+
