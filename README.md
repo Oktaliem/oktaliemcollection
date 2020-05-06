@@ -58,7 +58,7 @@ INPROGRESS
 https://github.com/Oktaliem/PageObjectPageFactoryActions
 
 ### [Test Infrastructure Set Up ] <br/>
-- [Manage Docker for Testing Infrastructure with Portainer]<br/>
+- [Manage Docker for Test Infrastructure with Portainer]<br/>
 https://www.youtube.com/watch?v=P0ckfsxDu5c
 
 - [Android Device Farm with OpenSTF + Docker Android]<br/>
