@@ -13,7 +13,7 @@ Scripting Language : Java, Scala, C
 https://github.com/Oktaliem/CreditCardConverter
 
 ### [End To End Web Application Testing]
-- [TDD with BDD Reporting Style with Allure Report + TestNG + Visual Regression Test] <br/>
+- [Continuous Testing and Visual Regression Test with Allure Report + TestNG + SonarQube + Jenkins] <br/>
 https://github.com/Oktaliem/OrangeHRMTestNGAllure
 
 - [BDD Style with SerenityBDD Framework + Cucumber] <br/>
@@ -24,23 +24,29 @@ https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
   https://github.com/Oktaliem/DemoAPITestingWithSerenityBDD
 
 ### [Security Testing]
-- [OWASP ZAP via Continuumsecurity Library ]<br/>
+- [Web Application Security Testing with OWASP ZAP via Continuumsecurity Library ]<br/>
 https://github.com/Oktaliem/OWASPZAPOdooGauge
 
-- [OWASP ZAP via Official Library ]<br/>
+- [Web Application Security Testing with OWASP ZAP via Official Library ]<br/>
 https://github.com/Oktaliem/WebSecurityScanningSample
+
+- [Java Application Dependency Check with OWASP + Maven Plugin ]<br/>
+INPROGRESS
 
 ### [Performance Testing] <br/>
 https://github.com/Oktaliem/PerformanceTestSamples
-- [Jmeter]<br/> 
+
+- [Server Side and Client Side Load Testing with Jmeter]<br/> 
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/apache-jmeter-5.2.1/testscenario
 
-- [Gatling]<br/>
+- [Server Side Load Testing with Gatling]<br/>
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/gatling
 
-- [LoadRunner]<br/>
+- [Server Side Load Testing with LoadRunner]<br/>
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/loadrunner
 
+- [Client Side Load Testing with LoadRunner TruClient Protocol]<br/>
+INPROGRESS
 
 ### [End To End Mobile (Android & iOS) Testing] <br/>
 - [Android Testing with Appium]<br/>
@@ -50,3 +56,15 @@ INPROGRESS
 
 ### [Selenium Keyword Library + Zalenium POC] <br/>
 https://github.com/Oktaliem/PageObjectPageFactoryActions
+
+### [Test Infrastructure Set Up ] <br/>
+- [Manage Docker for Testing Infrastructure with Portainer]<br/>
+https://www.youtube.com/watch?v=P0ckfsxDu5c
+
+- [Android Device Farm with OpenSTF + Docker Android]<br/>
+https://www.youtube.com/watch?v=MidkehASiNU
+
+- [Zalenium Installation & Demo with Portainer ]<br/>
+https://www.youtube.com/watch?v=8YsB3DAPZq8
+
+
