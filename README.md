@@ -3,7 +3,7 @@
 <br>
 
 # oktaliemcollection
-Sample Collection of End To End Test/Performance/Security Automation Testing Framework, Happy Learning !!!
+Sample Collection of End To End Test/REST API/Performance/Security Automation Testing, Happy Learning !!!
 
 ## Contents
 
