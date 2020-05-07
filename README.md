@@ -33,6 +33,9 @@ https://github.com/Oktaliem/WebSecurityScanningSample
 - [Java Application Dependency Check with OWASP + Maven Plugin ]<br/>
 INPROGRESS
 
+- [Web Security Testing while performing E2E Test with ZAP HUD]<br/>
+https://www.youtube.com/watch?v=wXext48sIHk&t=102s
+
 ### [Performance Testing] <br/>
 https://github.com/Oktaliem/PerformanceTestSamples
 
