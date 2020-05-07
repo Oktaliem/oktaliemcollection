@@ -37,7 +37,9 @@ INPROGRESS
 https://github.com/Oktaliem/PerformanceTestSamples
 
 - [Server Side and Client Side Load Testing with Jmeter]<br/> 
-https://github.com/Oktaliem/PerformanceTestSamples/tree/master/apache-jmeter-5.2.1/testscenario
+https://github.com/Oktaliem/PerformanceTestSamples/tree/master/apache-jmeter-5.2.1/testscenario <br/> 
+https://www.youtube.com/watch?v=FNMTDnkWOVY <br/>
+https://www.youtube.com/watch?v=R674NwH5eSE&t=68s
 
 - [Server Side Load Testing with Gatling]<br/>
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/gatling
