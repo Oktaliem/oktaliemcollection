@@ -39,6 +39,9 @@ INPROGRESS
 - [Web Security Testing while performing E2E Test with ZAP HUD]<br/>
 https://www.youtube.com/watch?v=wXext48sIHk&t=102s
 
+- [Continuous Mobile Application (Andorid/iOS) Security Assesment/Static Analysis ]<br/>
+https://github.com/Oktaliem/seleniummobsfscan
+
 ### [Performance Testing] <br/>
 https://github.com/Oktaliem/PerformanceTestSamples
 
