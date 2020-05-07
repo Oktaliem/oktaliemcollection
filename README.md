@@ -19,6 +19,9 @@ https://github.com/Oktaliem/OrangeHRMTestNGAllure
 - [BDD Style with SerenityBDD Framework + Cucumber + Selenium] <br/>
 https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 
+- [Selenium Keyword Library + Zalenium POC] <br/>
+https://github.com/Oktaliem/PageObjectPageFactoryActions
+
 ### [API Testing]
   - [Rest Assured & SerenityBDD Framework]<br/>
   https://github.com/Oktaliem/DemoAPITestingWithSerenityBDD
@@ -58,9 +61,6 @@ INPROGRESS
 INPROGRESS
 - [iOS Testing with Appium]<br/>
 INPROGRESS
-
-### [Selenium Keyword Library + Zalenium POC] <br/>
-https://github.com/Oktaliem/PageObjectPageFactoryActions
 
 ### [Test Infrastructure Set Up ] <br/>
 - [Manage Docker for Test Infrastructure with Portainer]<br/>
