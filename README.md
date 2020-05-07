@@ -12,11 +12,11 @@ Scripting Language : Java, Scala, C
 - [Credit Card Number Converter] <br/>
 https://github.com/Oktaliem/CreditCardConverter
 
-### [Selenium Web Application Testing]
-- [Continuous Testing and Visual Regression Test with Allure Report + TestNG + SonarQube + Jenkins] <br/>
+### [E2E Web Application Testing]
+- [Continuous Testing and Visual Regression Test with Selenium + Allure Report + TestNG + SonarQube + Jenkins] <br/>
 https://github.com/Oktaliem/OrangeHRMTestNGAllure
 
-- [BDD Style with SerenityBDD Framework + Cucumber] <br/>
+- [BDD Style with SerenityBDD Framework + Cucumber + Selenium] <br/>
 https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 
 ### [API Testing]
@@ -48,7 +48,7 @@ https://github.com/Oktaliem/PerformanceTestSamples/tree/master/loadrunner
 - [Client Side Load Testing with LoadRunner TruClient Protocol]<br/>
 INPROGRESS
 
-### [Appium Mobile (Android & iOS) Testing] <br/>
+### [E2E Mobile (Android & iOS) Testing] <br/>
 - [Android Testing with Appium]<br/>
 INPROGRESS
 - [iOS Testing with Appium]<br/>
