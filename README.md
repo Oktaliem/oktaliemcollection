@@ -61,7 +61,7 @@ INPROGRESS
 
 ### [E2E Mobile (Android & iOS) Testing] <br/>
 - [Android Testing with Appium]<br/>
-INPROGRESS
+https://github.com/Oktaliem/mobtestsamp
 - [iOS Testing with Appium]<br/>
 INPROGRESS
 
