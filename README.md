@@ -4,7 +4,7 @@
 
 # oktaliemcollection
 Sample Collection of Unit/End To End/REST API/Performance/Security Testing (Manual + Automated), Happy Learning !!! <br/>
-Scripting Language : Java, Scala, C
+Scripting Language : Java, Scala, C, Typescript
 
 ## Contents
 
@@ -13,14 +13,17 @@ Scripting Language : Java, Scala, C
 https://github.com/Oktaliem/CreditCardConverter
 
 ### [E2E Web Application Testing]
-- [Continuous Testing and Visual Regression Test with Selenium + Allure Report + TestNG + SonarQube + Jenkins] <br/>
+- [Java - Continuous Testing and Visual Regression Test with Selenium + Allure Report + TestNG + SonarQube + Jenkins] <br/>
 https://github.com/Oktaliem/OrangeHRMTestNGAllure
 
-- [BDD Style with SerenityBDD Framework + Cucumber + Selenium] <br/>
+- [Java - BDD Style with SerenityBDD Framework + Cucumber + Selenium] <br/>
 https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 
-- [Selenium Keyword Library + Zalenium POC] <br/>
+- [Java - Selenium Keyword Library + Zalenium POC] <br/>
 https://github.com/Oktaliem/PageObjectPageFactoryActions
+
+- [Typescript - BDD Style with WebdriverIO + Cucumber + Selenium] <br/>
+https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 
 ### [API Testing]
   - [Rest Assured & SerenityBDD Framework]<br/>
