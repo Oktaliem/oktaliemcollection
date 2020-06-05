@@ -23,7 +23,7 @@ https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 https://github.com/Oktaliem/PageObjectPageFactoryActions
 
 - [Typescript - BDD Style with WebdriverIO + Cucumber + Selenium + Docker] <br/>
-https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
+https://github.com/Oktaliem/widiocucumberpoc
 
 ### [API Testing]
   - [Rest Assured & SerenityBDD Framework]<br/>
