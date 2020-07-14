@@ -12,6 +12,10 @@ Scripting Language : Java, Scala, C, Typescript
 - [Credit Card Number Converter] <br/>
 https://github.com/Oktaliem/CreditCardConverter
 
+### [TDD]
+- [The Journey of TDD] <br/>
+https://www.facebook.com/groups/phpid/permalink/10158398833371101/
+
 ### [E2E Web Application Testing]
 - [Java - Continuous Testing and Visual Regression Test with Selenium + Allure Report + TestNG + SonarQube + Jenkins] <br/>
 https://github.com/Oktaliem/OrangeHRMTestNGAllure
