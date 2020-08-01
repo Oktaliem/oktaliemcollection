@@ -9,7 +9,7 @@ Scripting Language : Java, Scala, C, Typescript
 ## Contents
 
 ### [Unit Testing]
-- [Credit Card Number Converter] <br/>
+- [Java - Credit Card Number Converter] <br/>
 https://github.com/Oktaliem/CreditCardConverter
 
 ### [E2E Web Application Testing]
@@ -36,40 +36,40 @@ https://github.com/Oktaliem/widiocucumberpoc
   https://github.com/Oktaliem/mochachaiapitestingtypescript
 
 ### [Security Testing]
-- [Web Application Security Testing with OWASP ZAP via Continuumsecurity Library ]<br/>
+- [Java - Web Application Security Testing with OWASP ZAP via Continuumsecurity Library ]<br/>
 https://github.com/Oktaliem/OWASPZAPOdooGauge
 
-- [Web Application Security Testing with OWASP ZAP via Official Library ]<br/>
+- [Java - Web Application Security Testing with OWASP ZAP via Official Library ]<br/>
 https://github.com/Oktaliem/WebSecurityScanningSample
 
-- [Java Application Dependency Check with OWASP + Maven Plugin ]<br/>
+- [Java - Java Application Dependency Check with OWASP + Maven Plugin ]<br/>
 INPROGRESS
 
-- [Web Security Testing while performing E2E Test with ZAP HUD]<br/>
+- [Java - Web Security Testing while performing E2E Test with ZAP HUD]<br/>
 https://www.youtube.com/watch?v=wXext48sIHk&t=102s
 
-- [Continuous Mobile Application (Andorid/iOS) Security Assesment/Static Analysis ]<br/>
+- [Java - Continuous Mobile Application (Andorid/iOS) Security Assesment/Static Analysis ]<br/>
 https://github.com/Oktaliem/seleniummobsfscan
 
 ### [Performance Testing] <br/>
 https://github.com/Oktaliem/PerformanceTestSamples
 
-- [Server Side and Client Side Load Testing with Jmeter]<br/> 
+- [Java - Server Side and Client Side Load Testing with Jmeter]<br/> 
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/apache-jmeter-5.2.1/testscenario <br/> 
 https://www.youtube.com/watch?v=FNMTDnkWOVY <br/>
 https://www.youtube.com/watch?v=R674NwH5eSE&t=68s
 
-- [Server Side Load Testing with Gatling]<br/>
+- [Scala - Server Side Load Testing with Gatling]<br/>
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/gatling
 
-- [Server Side Load Testing with LoadRunner]<br/>
+- [C - Server Side Load Testing with LoadRunner]<br/>
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/loadrunner
 
-- [Client Side Load Testing with LoadRunner TruClient Protocol]<br/>
+- [C - Client Side Load Testing with LoadRunner TruClient Protocol]<br/>
 INPROGRESS
 
 ### [E2E Mobile (Android & iOS) Testing] <br/>
-- [Android Testing with Appium]<br/>
+- [Java - Android Testing with Appium]<br/>
 https://github.com/Oktaliem/mobtestsamp
 
 - [iOS Testing with Appium]<br/>
