@@ -22,12 +22,17 @@ https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 - [Java - Selenium Keyword Library + Zalenium POC] <br/>
 https://github.com/Oktaliem/PageObjectPageFactoryActions
 
+- [Java - Cucumber with Allure Report] <br/>
+https://github.com/Oktaliem/TestNGCucumberAllure
+
 - [Typescript - BDD Style with WebdriverIO + Cucumber + Selenium + Docker] <br/>
 https://github.com/Oktaliem/widiocucumberpoc
 
 ### [API Testing]
-  - [Rest Assured & SerenityBDD Framework]<br/>
+  - [Java - Rest Assured & SerenityBDD Framework]<br/>
   https://github.com/Oktaliem/DemoAPITestingWithSerenityBDD
+  - [Typescript - Mocha & Chai Framework]<br/>
+  https://github.com/Oktaliem/mochachaiapitestingtypescript
 
 ### [Security Testing]
 - [Web Application Security Testing with OWASP ZAP via Continuumsecurity Library ]<br/>
@@ -67,6 +72,10 @@ INPROGRESS
 https://github.com/Oktaliem/mobtestsamp
 - [iOS Testing with Appium]<br/>
 INPROGRESS
+
+### [Test Data Set Up ] <br/>
+- [Test Data Builder in Java]<br/>
+https://github.com/Oktaliem/testdatabuilderfortesting
 
 ### [Test Infrastructure Set Up ] <br/>
 - [Manage Docker for Test Infrastructure with Portainer]<br/>
