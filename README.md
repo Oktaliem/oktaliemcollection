@@ -89,6 +89,9 @@ https://www.youtube.com/watch?v=MidkehASiNU
 - [Zalenium Installation & Demo with Portainer ]<br/>
 https://www.youtube.com/watch?v=8YsB3DAPZq8
 
+- [Manage Docker with Java Code]<br/>
+https://github.com/Oktaliem/managedockerwithjava
+
 ### [Test Automation Code Quality] <br/>
 - [Checking Test Automation Quality Code (Static Code Analysis & Security) with SonarQube ]<br/>
 https://www.youtube.com/watch?v=MjgUgCN3WMg
