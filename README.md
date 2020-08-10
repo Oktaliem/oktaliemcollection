@@ -32,6 +32,9 @@ https://github.com/Oktaliem/widiocucumberpoc
   - [Java - Rest Assured & SerenityBDD Framework]<br/>
   https://github.com/Oktaliem/DemoAPITestingWithSerenityBDD
   
+  - [Java - Rest Assured & TestNG & Allure Report]<br/>
+  https://github.com/Oktaliem/RestAssuredAllureTestNG
+  
   - [Typescript - Mocha & Chai Framework]<br/>
   https://github.com/Oktaliem/mochachaiapitestingtypescript
 
