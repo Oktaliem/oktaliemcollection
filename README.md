@@ -4,7 +4,7 @@
 
 # oktaliemcollection
 Sample Collection of Unit/End To End/REST API/Performance/Security Testing (Manual + Automated), Happy Learning !!! <br/>
-Scripting Language : Java, Scala, C, Typescript
+Scripting Language : Java, Scala, C, Typescript, Python
 
 ## Contents
 
@@ -27,6 +27,9 @@ https://github.com/Oktaliem/TestNGCucumberAllure
 
 - [Typescript - BDD Style with WebdriverIO + Cucumber + Selenium + Docker] <br/>
 https://github.com/Oktaliem/widiocucumberpoc
+
+- [Python - Selenium - Python - PyUnit] <br/>
+https://github.com/Oktaliem/pythonseleniumpyunit
 
 ### [API Testing]
   - [Java - Rest Assured & SerenityBDD Framework]<br/>
