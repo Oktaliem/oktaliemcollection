@@ -28,7 +28,7 @@ https://github.com/Oktaliem/TestNGCucumberAllure
 - [Typescript - BDD Style with WebdriverIO + Cucumber + Selenium + Docker] <br/>
 https://github.com/Oktaliem/widiocucumberpoc
 
-- [Python - Selenium - Python - PyUnit] <br/>
+- [Python - Selenium - Page Factory - PyUnit] <br/>
 https://github.com/Oktaliem/pythonseleniumpyunit
 
 ### [API Testing]
