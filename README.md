@@ -22,7 +22,7 @@ https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 - [Java - Selenium Keyword Library + Zalenium POC] <br/>
 https://github.com/Oktaliem/PageObjectPageFactoryActions
 
-- [Java - Cucumber with Allure Report] <br/>
+- [Java - BDD Style with Cucumber + Allure Report] <br/>
 https://github.com/Oktaliem/TestNGCucumberAllure
 
 - [Typescript - BDD Style with WebdriverIO + Cucumber + Selenium + Docker] <br/>
