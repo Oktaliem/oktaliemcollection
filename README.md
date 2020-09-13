@@ -75,14 +75,14 @@ https://github.com/Oktaliem/PerformanceTestSamples/tree/master/gatling
 https://github.com/Oktaliem/PerformanceTestSamples/tree/master/loadrunner
 
 - [C - Client Side Load Testing with LoadRunner TruClient Protocol]<br/>
-INPROGRESS
+TO DO
 
 ### [E2E Mobile (Android & iOS) Testing] <br/>
 - [Java - Android Testing with Appium]<br/>
 https://github.com/Oktaliem/mobtestsamp
 
 - [iOS Testing with Appium]<br/>
-INPROGRESS
+TO DO
 
 ### [Test Data Set Up ] <br/>
 - [Test Data Builder in Java]<br/>
