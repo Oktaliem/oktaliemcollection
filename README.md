@@ -57,6 +57,9 @@ https://www.youtube.com/watch?v=wXext48sIHk&t=102s
 - [Java - Continuous Mobile Application (Andorid/iOS) Security Assesment/Static Analysis ]<br/>
 https://github.com/Oktaliem/seleniummobsfscan
 
+- [Java - Static Analysis for Java source code and Android APK using QARK via Maven and Junit ]<br/>
+https://github.com/Oktaliem/qarkstaticanalysis
+
 ### [Performance Testing] <br/>
 https://github.com/Oktaliem/PerformanceTestSamples
 
