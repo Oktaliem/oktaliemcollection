@@ -79,7 +79,7 @@ TO DO
 
 ### [E2E Mobile (Android & iOS) Testing] <br/>
 - [Java - Android & iOS Testing with Appium]<br/>
-https://github.com/Oktaliem/mobtestsam
+https://github.com/Oktaliem/mobtestsamp
 
 ### [Test Data Set Up ] <br/>
 - [Test Data Builder in Java]<br/>
