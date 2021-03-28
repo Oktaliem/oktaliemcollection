@@ -78,11 +78,8 @@ https://github.com/Oktaliem/PerformanceTestSamples/tree/master/loadrunner
 TO DO
 
 ### [E2E Mobile (Android & iOS) Testing] <br/>
-- [Java - Android Testing with Appium]<br/>
-https://github.com/Oktaliem/mobtestsamp
-
-- [iOS Testing with Appium]<br/>
-TO DO
+- [Java - Android & iOS Testing with Appium]<br/>
+https://github.com/Oktaliem/mobtestsam
 
 ### [Test Data Set Up ] <br/>
 - [Test Data Builder in Java]<br/>
