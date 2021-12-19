@@ -3,7 +3,8 @@
 <br>
 
 # oktaliemcollection
-Sample Collection of Unit/End To End/REST API/Performance/Security Testing (Manual + Automated), Happy Learning !!! <br/>
+Dedicated for Indonesia Software Quality Assurance (ISQA) Tech Community. <br/>
+Sample Collection of Unit/End To End/Visual/REST API/Performance/Security Testing, Happy Learning !!! <br/>
 Scripting Language : Java, Scala, C, Typescript, Python
 
 ## Contents
