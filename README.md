@@ -31,9 +31,16 @@ https://github.com/Oktaliem/widiocucumberpoc
 - [Python - Selenium - Page Factory - PyUnit] <br/>
 https://github.com/Oktaliem/pythonseleniumpyunit
 
+
+### [E2E Mobile (Android & iOS) Testing] <br/>
+- [Java - Android & iOS Testing with Appium]<br/>
+https://github.com/Oktaliem/mobtestsamp
+
+
 ### [Visual Regression Testing]
 - [Java - Demo of Visual Regression with Ashot + Allure Report + Micoo + Visual Regression Tracker] <br/>
-https://github.com/Oktaliem/pengujianmembandingkangambar
+https://github.com/Oktaliem/pengujianmembandingkangambar <br/> 
+https://www.youtube.com/watch?v=XIHOEi3I7fs&t=5214s&ab_channel=ISQA
 
 ### [API Testing]
   - [Java - Rest Assured & SerenityBDD Framework]<br/>
@@ -81,9 +88,6 @@ https://github.com/Oktaliem/PerformanceTestSamples/tree/master/loadrunner
 - [C - Client Side Load Testing with LoadRunner TruClient Protocol]<br/>
 TO DO
 
-### [E2E Mobile (Android & iOS) Testing] <br/>
-- [Java - Android & iOS Testing with Appium]<br/>
-https://github.com/Oktaliem/mobtestsamp
 
 ### [Test Data Set Up ] <br/>
 - [Test Data Builder in Java]<br/>
