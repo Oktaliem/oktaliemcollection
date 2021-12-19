@@ -31,6 +31,10 @@ https://github.com/Oktaliem/widiocucumberpoc
 - [Python - Selenium - Page Factory - PyUnit] <br/>
 https://github.com/Oktaliem/pythonseleniumpyunit
 
+### [Visual Regression Testing]
+- [Java - Demo of Visual Regression with Ashot + Allure Report + Micoo + Visual Regression Tracker] <br/>
+https://github.com/Oktaliem/pengujianmembandingkangambar
+
 ### [API Testing]
   - [Java - Rest Assured & SerenityBDD Framework]<br/>
   https://github.com/Oktaliem/DemoAPITestingWithSerenityBDD
