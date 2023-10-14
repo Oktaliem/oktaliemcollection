@@ -20,7 +20,7 @@ https://github.com/Oktaliem/OrangeHRMTestNGAllure
 - [Java - BDD Style with SerenityBDD Framework + Cucumber + Selenium] <br/>
 https://github.com/Oktaliem/DemoSerenityBDDCucumberOrangeHRM
 
-- [Java - Selenium Keyword Library + Zalenium POC] <br/>
+- [Java - Selenium Keyword Library] <br/>
 https://github.com/Oktaliem/PageObjectPageFactoryActions
 
 - [Java - BDD Style with Cucumber + Allure Report] <br/>
