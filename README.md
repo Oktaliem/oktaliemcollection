@@ -3,9 +3,9 @@
 <br>
 
 # oktaliemcollection
-Dedicated for Indonesia Software Quality Assurance (ISQA) Tech Community. <br/>
-Sample Collection of Unit/End To End/Visual/REST API/Performance/Security Testing, Happy Learning !!! <br/>
-Scripting Language : Java, Scala, C, Typescript, Python
+Dedicated to Indonesia Software Quality Assurance (ISQA) Tech Community. <br/>
+Sample Collection of Unit/End-to-End/Visual/REST API/Performance/Security Testing, Happy Learning !!! <br/>
+Scripting Language: Java, Scala, C, Typescript, Python
 
 ## Contents
 
@@ -38,9 +38,9 @@ Scripting Language : Java, Scala, C, Typescript, Python
 - [Java - Web Application Security Testing with OWASP ZAP via Continuumsecurity Library ](https://github.com/Oktaliem/OWASPZAPOdooGauge)
 - [Java - Web Application Security Testing with OWASP ZAP via Official Library ](https://github.com/Oktaliem/WebSecurityScanningSample)
 - [Java - Java Application Dependency Check with OWASP + Maven Plugin ]<br/>
-INPROGRESS
+IN-PROGRESS
 - [Youtube - Web Security Testing while performing E2E Test with ZAP HUD](https://www.youtube.com/watch?v=wXext48sIHk&t=102s)
-- [Java - Continuous Mobile Application (Andorid/iOS) Security Assesment/Static Analysis ](https://github.com/Oktaliem/seleniummobsfscan)
+- [Java - Continuous Mobile Application (Android/iOS) Security Assessment/Static Analysis ](https://github.com/Oktaliem/seleniummobsfscan)
 - [Java - Static Analysis for Java source code and Android APK using QARK via Maven and Junit ](https://github.com/Oktaliem/qarkstaticanalysis)
 
 ### [Performance Testing] <br/>
