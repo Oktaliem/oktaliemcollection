@@ -67,6 +67,9 @@ TO DO
 ### [Test Automation Code Quality] <br/>
 - [Youtube - Checking Test Automation Quality Code (Static Code Analysis & Security) with SonarQube ](https://www.youtube.com/watch?v=MjgUgCN3WMg)
 
+### [AI Engineering] <br/>
+- [Mini RAG - Your Personal AI Document Assistant](https://github.com/Oktaliem/mini-rag-personal-ai-document)
+
 ### [Youtube Channel ](https://www.youtube.com/user/okta86100/videos)
 
 
