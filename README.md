@@ -67,8 +67,9 @@ TO DO
 ### [Test Automation Code Quality] <br/>
 - [Youtube - Checking Test Automation Quality Code (Static Code Analysis & Security) with SonarQube ](https://www.youtube.com/watch?v=MjgUgCN3WMg)
 
-### [AI Engineering] <br/>
+### [AI QE Engineering] <br/>
 - [Mini RAG - Your Personal AI Document Assistant](https://github.com/Oktaliem/mini-rag-personal-ai-document)
+- [Local Model LLM & AI Agent Evaluation Framework](https://github.com/Oktaliem/local-model-llm-eval)
 
 ### [Youtube Channel ](https://www.youtube.com/user/okta86100/videos)
 
